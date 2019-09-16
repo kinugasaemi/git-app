@@ -1,6 +1,4 @@
 # README
-## how to use GItHub Desktop
-## how to use git recert
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
